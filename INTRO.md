@@ -1,4 +1,7 @@
 # jenkinsRepo
 
-## Please read my INTRO.md file as it contains some useful information regarding my jenkinsRepo.
-## I will continue to update this README.md file on an eventual basis. Thank you.  
+## As part of best practice, I have created a branch called dan-Jenkins to have all files within my jenkinsRepo pushed on there; thus, using the main branch for production. 
+
+## Furthermore, as I continue to practice, I will develop new ideas and scalable solutions on how to improve my work.
+
+## Thanks for stoping by. 
